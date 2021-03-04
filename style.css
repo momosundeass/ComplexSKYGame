@@ -45,12 +45,12 @@ body{
 	text-align: center;
 	padding-top : 50px;
 }
-.itch{
-	padding-top: 80px;
+.website{
+	padding-top: 20px;
 	text-align: center;
 	background-color: #22a3ff;
 }
-.itchText{
+.websiteText{
 	font-family: sans-serif;
 	font-size: x-large;
 }
